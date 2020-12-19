@@ -1,0 +1,78 @@
+body{
+	background: #121212;
+}
+.container{
+	margin: auto;
+}
+.canvas-one{
+	position:relative;
+	width: 200px;
+	height: 200px;
+	float: left;
+	margin-left: 40px;
+	margin-top: 40px;
+	border: transparent;
+}
+.canvas-two{
+	position:relative;
+	width: 200px;
+	height: 200px;
+	float: left;
+	margin-left: 40px;
+	margin-top: 40px;
+	border: transparent;
+}
+.canvas-three{
+	position:relative;
+	width: 200px;
+	height: 200px;
+	float: left;
+	margin-left: 40px;
+	margin-top: 40px;
+	border: transparent;
+}
+.canvas-four{
+	position:relative;
+	width: 200px;
+	height: 200px;
+	float: left;
+	margin-left: 40px;
+	margin-top: 40px;
+	border: transparent;
+}
+.canvas-five{
+	position:relative;
+	width: 200px;
+	height: 200px;
+	float: left;
+	margin-left: 40px;
+	margin-top: 40px;
+	border: transparent;
+}
+.canvas-six{
+	position:relative;
+	width: 200px;
+	height: 200px;
+	float: left;
+	margin-left: 40px;
+	margin-top: 40px;
+	border: transparent;
+}
+.canvasSeven{
+	position:relative;
+	width: 200px;
+	height: 200px;
+	float: left;
+	margin-left: 40px;
+	margin-top: 40px;
+	border: transparent;
+}
+.canvasEight{
+	position:relative;
+	width: 200px;
+	height: 200px;
+	float: left;
+	margin-left: 40px;
+	margin-top: 40px;
+	border: transparent;
+}
